@@ -3,7 +3,7 @@ library to build and install.  Copy the .h files and use them!
 
 See http://code.google.com/p/cpp-btree/wiki/UsageInstructions for
 details.
-
+http://google-opensource.blogspot.de/2013/01/c-containers-that-save-memory-and-time.html
 ----
 
 To build and run the provided tests, however, you will need to install
